@@ -1,5 +1,5 @@
 # Trabajo Integrador – Python
-Este repositorio contiene mis dos mini aplicaciones hechas para la materia Introducción a Python del programa Programá tu futuro – TECNO 3F.
+Este repositorio contiene mis dos mini aplicaciones hechas para la materia Introducción a Python – TECNO 3F.
 
 ## Aplicación 1: Tickets (Obligatoria)
 ¿Qué hace?
