@@ -1,19 +1,19 @@
-## Trabajo Integrador – Python
+# Trabajo Integrador – Python
 Este repositorio contiene mis dos mini aplicaciones hechas para la materia Introducción a Python del programa Programá tu futuro – TECNO 3F.
 
-# Aplicación 1: Tickets (Obligatoria)
+## Aplicación 1: Tickets (Obligatoria)
 ¿Qué hace?
 * Es un sistema muy básico para crear y leer tickets.
 * Sirve como ejemplo de cómo guardar datos en memoria y mostrarlos después.
 
-# Cómo funciona
+## Cómo funciona
 Al iniciar, aparece un menú con 3 opciones:
 
 * Generar un nuevo ticket
 * Leer un ticket
 * Salir
 
-# Cuando genero un ticket, me pide:
+## Cuando genero un ticket, me pide:
 Nombre
 Sector
 Asunto
@@ -41,7 +41,7 @@ Se generó el siguiente Ticket:
 Nº Ticket: 6694
 Recordar su número de Ticket
 
-# Aplicación 2: Generador de Contraseñas (Optativa)
+## Aplicación 2: Generador de Contraseñas (Optativa)
 * ¿Qué hace?
 Genera contraseñas aleatorias según lo que el usuario elija.
 
@@ -69,17 +69,17 @@ Seleccione una opción: 3
 
 Contraseña generada: a9B7k2Qx
 
-# Cómo ejecutar
+## Cómo ejecutar
 Clonar el repositorio o descargarlo.
 Entrar a la carpeta de cada aplicación:
 Tickets/main.py
 Password/main.py
 
-# Ejecutar con Python:
+## Ejecutar con Python:
 Código
 python main.py
 
-# Notas
+## Notas
 Todo está hecho con lo básico de Python, sin librerías externas.
 Los tickets se guardan solo mientras el programa está abierto (no se usan archivos ni bases de datos).
 El generador de contraseñas usa el módulo random y string que vienen con Python.
