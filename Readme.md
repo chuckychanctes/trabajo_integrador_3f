@@ -14,32 +14,32 @@ Al iniciar, aparece un menú con 3 opciones:
 * Salir
 
 ## Cuando genero un ticket, me pide:
-Nombre
-Sector
-Asunto
-Mensaje
+- Nombre
+- Sector
+- Asunto
+- Mensaje
 
-El programa le asigna un número aleatorio entre 1000 y 9999.
-Ese número hay que recordarlo para poder leer el ticket después.
-Si elijo leer ticket, escribo el número y me muestra los datos guardados.
-Si pongo salir, me pide confirmación y termina.
+* El programa le asigna un número aleatorio entre 1000 y 9999.
+* Ese número hay que recordarlo para poder leer el ticket después.
+* Si elijo leer ticket, escribo el número y me muestra los datos guardados.
+* Si pongo salir, me pide confirmación y termina.
 
-Ejemplo de uso
-Código
+### Ejemplo de uso
+* Código
 Hola, bienvenido al sistema de Tickets
-1 - Generar un Nuevo Ticket
-2 - Leer un Ticket
-3 - Salir
-Seleccione: 1
+- 1 - Generar un Nuevo Ticket
+- 2 - Leer un Ticket
+- 3 - Salir
+- Seleccione: 1
 
-Ingrese su Nombre: Gabriel
-Ingrese su Sector: Tecno3f
-Ingrese el Asunto: Pc
-Ingrese el Mensaje: No enciende la pc
+- Ingrese su Nombre: Gabriel
+- Ingrese su Sector: Tecno3f
+- Ingrese el Asunto: Pc
+- Ingrese el Mensaje: No enciende la pc
 
-Se generó el siguiente Ticket:
-Nº Ticket: 6694
-Recordar su número de Ticket
+* Se generó el siguiente Ticket:
+- Nº Ticket: 6694
+- Recordar su número de Ticket
 
 ## Aplicación 2: Generador de Contraseñas (Optativa)
 * ¿Qué hace?
